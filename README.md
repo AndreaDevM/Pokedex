@@ -1,2 +1,2 @@
 # Pokedex
-Pokedex with Pokemon API
+Pokedex with Pokemon API (Incomplete)
